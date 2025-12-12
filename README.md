@@ -1,6 +1,7 @@
 # COGS 118A Final Project – Classifier Comparison
-This repository contains the Jupyter notebook used for the COGS 118A final project
-*“Comparing Traditional Machine Learning Classifiers on Biomedical Data: Effects of Dataset Structure and Train–Test Splits.”*
+This repository contains the Jupyter notebook used for the COGS 118A final project *“Comparing Traditional Machine Learning Classifiers on Biomedical Data: Effects of Dataset Structure and Train–Test Splits.”*
+
+👉 Please open: **cogs118a_final_project.ipynb**
 
 The notebook includes:
 - Loading and preprocessing the four UCI biomedical datasets  
